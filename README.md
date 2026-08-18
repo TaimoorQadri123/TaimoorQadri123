@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Taimoor Qadri</h1>
-<h3 align="center">Web Developer | Computer Science Student</h3>
+<h3 align="center">Junior .NET Developer | Full Stack Web Developer | Computer Science Student</h3>
 
 <!-- Portfolio Button -->
 <p align="center">
@@ -9,36 +9,41 @@
 </p>
 
 <ul>
-  <li>🔭 I’m currently working on <b>Flutter, Asp.Net, PhP, Laravel, MERN Stack-based projects</b></li>
-  <li>🌱 I’m currently learning <b>Flutter, Python, and MERN Stack</b></li>
-  <li>🤝 I’m looking for help with <b>internship opportunities and real-world projects</b></li>
-  <li>💬 Ask me about <b>Web Development</b></li>
-  <li>📫 How to reach me <b>muhammadtaimoorqadri@gmail.com</b></li>
+  <li>💼 Completed a .NET Developer Internship at <b>Synergy Integrated Solutions</b>, working on an ERP-based Travel Agency Management System (ASP.NET, C#, SQL Server)</li>
+  <li>🔭 I'm currently working with <b>ASP.NET, C#, PHP, Laravel</b>, and building out MERN Stack projects</li>
+  <li>🌱 I'm currently learning <b>Python and the MERN Stack (MongoDB, Express, React, Node)</b>, and exploring TypeScript, Next.js, Django, and Linux fundamentals this year</li>
+  <li>🤝 I'm looking for opportunities to grow as a <b>Junior .NET / Full Stack Developer</b> and take on real-world projects</li>
+  <li>💬 Ask me about <b>Web Development (PHP, ASP.NET, MERN)</b></li>
+  <li>📫 How to reach me: <b>muhammadtaimoorqadri@gmail.com</b></li>
   <li>⚡ Fun fact: <b>I learn something new from code every day</b></li>
 </ul>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Currently Using:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+
+<h3 align="left">Learning / Exploring This Year:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
 </p>
